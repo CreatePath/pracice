@@ -9,3 +9,5 @@
 5. moveBack을 눌러 무르기 가능(아직 구현x)
 6. giveup 버튼을 눌러 기권 후 결과 출력 -> 종료
 7. count 버튼을 눌러 계가 후 결과 출력 -> 종료 (아직 구현x)
+## 게임 화면
+![화면 캡처 2022-07-16 182512](https://user-images.githubusercontent.com/101233934/179349100-9b255cce-28b8-4503-bcce-703cd05b6c8b.png)
